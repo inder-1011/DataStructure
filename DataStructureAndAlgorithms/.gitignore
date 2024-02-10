@@ -1,3 +1,4 @@
 /DataStructureAndAlgorithms/.idea/
 /DataStructureAndAlgorithms/target
 !/.idea/
+!/target/
